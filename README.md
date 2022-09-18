@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marx sebastian barahona</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **javascript, c#, .Net**
+- 💬 Ask me about **javascript, c#, .Net, Node.js, Express**
 
 - 📫 How to reach me **baradona69@gmail.com**
 
