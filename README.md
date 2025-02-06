@@ -30,6 +30,6 @@ I’m a passionate **Full Stack Developer** with experience in **Node.js, .NET C
 
 ### 📬 Contact Me
 📧 **Email:** baradona69@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/marxbarahona](#) *(Replace with your actual link)*  
+💼 **LinkedIn:** [linkedin.com/in/marxbt](#)  
 
 Thanks for visiting my profile! 🚀
